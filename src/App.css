@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background: rgba(0,0,0,0.6);
+  margin: 0;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .App-logo {
